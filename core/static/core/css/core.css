@@ -1,0 +1,16 @@
+/* Font */
+.st-font{
+font-family: 'Satisfy', cursive;
+}
+.bd-style{
+  font-family: 'Fira Sans', sans-serif;
+
+  font-family: 'Satisfy', cursive;
+}
+html,body{
+  height:100%
+}
+
+.container-fluid{
+  min-height: 100%
+}
